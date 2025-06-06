@@ -66,7 +66,7 @@ Segment customers based on credit card usage and credit limits to identify disti
 
 ---
 
-## 📌 Requirements
+##  Requirements
 
 Make sure the following libraries are installed:
 
